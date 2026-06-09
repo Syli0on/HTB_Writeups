@@ -1,10 +1,11 @@
 # Sylion — HTB Writeups
 
-Étudiant en cybersécurité à Guardia Cybersecurity School, je souhaite devenir pentester.
+2nd year cybersecurity student at Guardia Cybersecurity School, passionate about offensive security and penetration testing.
 Actuellement niveau 21 sur HackTheBox.
+Curently level 21 on HackTheBox
 
 ## Certifications
-- eJPT (en cours de préparation)
+- eJPT (In preparation)
 
 ## Plateformes
 - HackTheBox : https://app.hackthebox.com/users/3494166
