@@ -12,7 +12,7 @@ Actuellement niveau 21 sur HackTheBox.
 ## Writeups
 | Machine | OS | Difficulté | Lien |
 |---------|----|------------|------|
-| 2Million | Linux | Easy | [2million.md] |
+| 2Million | Linux | Easy | [Writeup](./2million.md) |
 
 ## Contact
 - LinkedIn : https://www.linkedin.com/in/lacroixsimon/
